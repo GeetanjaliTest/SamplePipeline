@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.321">
+    <testcase classname="aLogin" name="Test Case Id: TC_BRNBS-01_aLogin_01" time="5.079">
+        <system-out>
+            <![CDATA[Given User Launch chrome browser............................................passed
+When User opens URL "https://accounts.google.com/"..........................passed
+And Close the browser.......................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
